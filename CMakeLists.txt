@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(c_example_sorting
         VERSION 1.0.0
-        DESCRIPTION "Implementacao de referencia de algoritmos de ordenacao com analise de complexidade."
+        DESCRIPTION "Reference implementation of sorting algorithms with complexity analysis."
         HOMEPAGE_URL "https://git.example.com/c-example-sorting"
         LANGUAGES C)
 
